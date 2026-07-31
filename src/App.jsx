@@ -2,7 +2,7 @@
 import { useEffect, useState } from 'react'
 import './App.css'
 import { ThemeProvider } from './Contexts/theme'
-import ThemeBtn from './components/themeBtn'
+import ThemeBtn from './components/ThemeBtn'
 import Card from './components/Card'
 
 function App() {
